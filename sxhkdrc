@@ -1,0 +1,43 @@
+
+
+alt + ctrl + y 
+	discord
+
+alt + ctrl + w
+	pkill -USR1 -x sxhkd
+
+alt + ctrl +  u
+	firefox
+
+alt + ctrl + i
+	brave
+
+alt + ctrl +  o 
+	todoist
+
+alt + ctrl + p 
+	joplin-desktop
+
+alt + ctrl + m
+	pavucontrol
+
+Print
+	flameshot gui
+
+ctrl + Print
+	flameshot full
+
+alt + ctrl + n
+	st -e ranger
+
+alt + ctrl + b
+	st -e ncmpcpp
+
+alt + ctrl + v
+	nuclear
+
+alt + ctrl + c
+	passmenu
+
+
+
